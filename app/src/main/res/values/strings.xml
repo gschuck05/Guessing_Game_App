@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Guessing Game App</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="banner_text">Please tap to guess a number</string>
+    <string name="new_game">New Game</string>
+</resources>
